@@ -1,0 +1,19 @@
+En caso de correr el codigo en python3 
+
+pip3 install discord
+pip3 install urllib
+pip3 install re
+pip3 install youtube_dl
+
+En caso de correr en una version inferior de python
+
+pip install discord
+pip install urllib
+pip install re
+pip install youtube_dl
+
+Necesario para comunicacion con el servidor de Discord:
+
+pip install PyNaCl
+
+Python para NaCl (Networking and Cryptography library
